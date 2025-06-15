@@ -53,8 +53,10 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/shishirsaja/">LinkedIn</a> •
-  <a href="mailto:shishirsaja17@gmail.com">Gmail</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="19" alt="linkdin">
+  <a href="https://www.linkedin.com/in/shishirsaja/">LinkedIn</a>   •  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" height ="16" >
+  shishirsaja17@gmail.com
 </p>
 
 ---
