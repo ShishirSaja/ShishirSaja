@@ -35,20 +35,15 @@
 </p>
 
 ---
-
-  <a href="https://github.com/ShishirSaja?tab=repositories" align="center">
-    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirSaja&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en" alt="Technologies" />
-  </a>
-</div>
+## 📊 Most Used Languages
 
 <div align="center">
-  <a href="https://github.com/ShishirSaja" align="center">
-<!--     <img height=217 src="https://github-readme-stats-nu-five-96.vercel.app/api?username=ShishirSaja&hide_border=true&custom_title=Stats&theme=transparent" /> -->
+  <a href="https://github.com/ShishirSaja?tab=repositories">
+    <img height="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirSaja&theme=transparent&hide_border=true&layout=compact&langs_count=18&locale=en&hide_title=true" alt="Most Used Languages"/>
   </a>
 </div>
 
 ---
-
 ## 🚀 Projects in Progress
 - 🌐 Building full‑stack apps with **React + Node.js + PostgreSQL**  
 - ⚙️ Designing **RESTful** & **GraphQL** APIs, experimenting with micro‑services  
