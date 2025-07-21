@@ -36,11 +36,16 @@
 
 ---
 
-## 📈 Most Used Languages
-<p align="center">
-  <!-- Replace YOUR-USERNAME with your actual GitHub handle -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirSaja&hide=Jupyter%20Notebook&theme=github_dark&card_width=450" alt="Top Languages Card">
-</p>
+  <a href="https://github.com/ShishirSaja?tab=repositories" align="center">
+    <img height=275 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShishirSaja&theme=transparent&hide_border=true&layout=compact&langs_count=12&locale=en" alt="Technologies" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/ShishirSaja" align="center">
+<!--     <img height=217 src="https://github-readme-stats-nu-five-96.vercel.app/api?username=ShishirSaja&hide_border=true&custom_title=Stats&theme=transparent" /> -->
+  </a>
+</div>
 
 ---
 
